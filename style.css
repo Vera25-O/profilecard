@@ -43,7 +43,7 @@ p {
 	text-align: center;
 }
 
-.card-container .pro {
+.card-container .icon {
 	color: #231E39;
 	background-color: #FEBB0B;
 	border-radius: 3px;
@@ -92,7 +92,7 @@ button.primary.ghost {
 }
 
 .skills ul li {
-	border: 1px solid #2D2747;
+	border: 1px solid #c648c8;
 	border-radius: 2px;
 	display: inline-block;
 	font-size: 12px;
@@ -155,10 +155,4 @@ button.primary.ghost {
     -webkit-text-fill-color: transparent;
     transition: all 265ms ease-in;
   }
-  .icon{
-    height: 2vw;
-    width: 50%;
-    margin-bottom: 5%;
-  }
-
   
